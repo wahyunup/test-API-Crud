@@ -1,6 +1,6 @@
-import product from "../model/productModel";
+import Products from "../model/ProductModel.js";
 
-export const getProduct = (req, res) =>{
+export const getProducts = (req, res) =>{
     
 }
 
